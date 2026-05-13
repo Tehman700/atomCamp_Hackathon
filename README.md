@@ -2,6 +2,10 @@
 
 > Built for the **AUREX 26 AI Hackathon** · AI-powered learning management system that adapts to every student.
 
+## Live Demo
+
+**[https://atomcamp.duckdns.org](https://atomcamp.duckdns.org)** — deployed on AWS EC2
+
 ---
 
 ## What is this?
